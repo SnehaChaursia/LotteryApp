@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/48bf4_next_dist_46037de3._.js",
+      "static/chunks/lottery_app_favicon_ico_mjs_1972f20b._.js",
+      "static/chunks/[root-of-the-server]__49142e90._.css",
+      "static/chunks/48bf4_054f3727._.js",
+      "static/chunks/48bf4_@wagmi_core_dist_esm_2f824f73._.js",
+      "static/chunks/48bf4_@tanstack_query-core_build_modern_2c638510._.js",
+      "static/chunks/48bf4_@rainbow-me_rainbowkit_dist_ac78458a._.js",
+      "static/chunks/48bf4_viem__esm_a9f11f53._.js",
+      "static/chunks/48bf4_@noble_curves_esm_c6639332._.js",
+      "static/chunks/48bf4_ox__esm_3b8b95d9._.js",
+      "static/chunks/48bf4_027953af._.js",
+      "static/chunks/lottery_1222d32d._.js",
+      "static/chunks/lottery_app_layout_tsx_7a680aa7._.js",
+      "static/chunks/48bf4_next_dist_client_components_builtin_global-error_1277c138.js",
+      "static/chunks/lottery_10fdba74._.js",
+      "static/chunks/lottery_app_page_tsx_1277c138._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_3da66cbb._.js",
+      "static/chunks/48bf4_next_dist_compiled_react-dom_aa3aab4f._.js",
+      "static/chunks/48bf4_next_dist_compiled_next-devtools_index_9e5d8488.js",
+      "static/chunks/48bf4_next_dist_compiled_7bef1431._.js",
+      "static/chunks/48bf4_next_dist_client_5a27106c._.js",
+      "static/chunks/48bf4_next_dist_a2e73e32._.js",
+      "static/chunks/48bf4_@swc_helpers_cjs_d5a222de._.js",
+      "static/chunks/lottery_a0ff3932._.js",
+      "static/chunks/turbopack-lottery_b54bce2a._.js"
+    ]
+  }
+}
